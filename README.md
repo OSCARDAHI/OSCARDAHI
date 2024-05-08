@@ -45,3 +45,6 @@ My journey in Technology has led me to develop a passion for cybersecurity, and 
 ## Projects
 - Caesar cipher encrypt and decrypt.
 - Password complexity checker.
+- Packets sniffer.
+- Simple Keylogger tool.
+- Pixel manipulation for image encryption.
